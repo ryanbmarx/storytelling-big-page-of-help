@@ -1,0 +1,332 @@
+{
+  "title": "Where to find help in Milwaukee, resource guide ",
+  "headline": "How to get help in Milwaukee",
+  "subheadline": "",
+  "intro": "<p>Here is a Milwaukee area resource guide to help you navigate information on housing, mental health, education, crime, safety and more. Have something you want answered? <a href=\"https://forms.office.com/Pages/ResponsePage.aspx?id=jUySvBY-iE6_Jtf8-xTy1R5GdJqmNadIuDeZwKKS0SlUOVdQWDBZSjFaVjhYV01SSjBDVDJYVDlVSS4u\">Submit your question now</a>.</p>\n",
+  "share_image": "7634613001",
+  "share_text": "This guide will help you navigate information on housing, mental health, education, public safety and more.",
+  "ssts": "news",
+  "published": "6/16/2022 15:47:13",
+  "updated": "6/16/2022 15:47:13",
+  "presto_slug": "milwaukee-resources-guide-housing-mental-health-education-crime-safety-voting-employment-recycling",
+  "byline": "Journal Sentinel Staff",
+  "organization": "USA TODAY NETWORK - Wisconsin",
+  "date_published": null,
+  "date_updated": null,
+  "sections": {
+    "public-safety": {
+      "id": "public-safety",
+      "label": "Crime & Safety"
+    },
+    "recycling": {
+      "id": "recycling",
+      "label": "Recycling"
+    },
+    "housing": {
+      "id": "housing",
+      "label": "Housing"
+    },
+    "education": {
+      "id": "education",
+      "label": "Education"
+    },
+    "voting": {
+      "id": "voting",
+      "label": "Voting"
+    },
+    "youth": {
+      "id": "youth",
+      "label": "Youth"
+    },
+    "lead": {
+      "id": "lead",
+      "label": "Lead"
+    },
+    "mental-health": {
+      "id": "mental-health",
+      "label": "Mental health"
+    },
+    "other": {
+      "id": "other",
+      "label": "Connect"
+    }
+  },
+  "questions": {
+    "education": [
+      {
+        "presto_id": "5777945001",
+        "question": "How can I save for college for myself or for my kids?",
+        "answer": "<p>One popular option for saving is known as a 529 account. </p>\n<p>A 529 account — named for the tax code section that defines it — is a way to save and invest for educational expenses for yourself, your children, grandchildren or other kids in your life. </p>\n<p>Wisconsin offers two state-run 529 platforms. You can open an account with one of them, <a href=\"https://edvest.com\">Edvest</a>, for as little as $25.</p>\n",
+        "media_format": "article",
+        "section": "education",
+        "year_pub": "2021",
+        "needs_updated_y/n": "n",
+        "link": "https://www.jsonline.com/story/news/local/milwaukee/2021/09/29/what-529-college-savings-account-and-how-do-you-open-one-edvest-wisconsin/5777945001/"
+      },
+      {
+        "presto_id": "4453939001",
+        "question": "What if I save money in a 529 but my child does not go to college? ",
+        "answer": "<p>You can change the beneficiary if needed so the money can be used for educational purposes by a sibling, parent or other immediate relative. </p>\n<p>A 529 account can be used for college, university, vocational or apprenticeships programs, K12 private school tuition or up to $10,000 in student debt loan repayment. </p>\n",
+        "media_format": "pdf",
+        "section": "education",
+        "year_pub": "2021",
+        "needs_updated_y/n": "n",
+        "link": "/509%20FLYER%2010-26-2001%20(documentcloud.org)"
+      },
+      {
+        "presto_id": "5952595001",
+        "question": "¿Qué es una cuenta 529?",
+        "answer": "<p>Es una cuenta de ahorro universitario y es similar a lo que son las cuentas 401(k) para la jubilación. Usted realiza aportes a la cuenta. Luego esos aportes se invierten para que la cuenta genere más dinero. Ese dinero se incrementa libre de impuestos y puede utilizarse posteriormente para la universidad o la formación profesional. </p>\n<p>El nombre &quot;529&quot; proviene de la sección del código de ingresos internos que describe la política fiscal que rige estas cuentas.</p>\n",
+        "media_format": "article",
+        "section": "education",
+        "year_pub": "2021",
+        "needs_updated_y/n": "n",
+        "link": "https://www.jsonline.com/story/news/local/milwaukee/2021/10/05/que-es-una-cuenta-de-ahorro-universitario-529-wisconsin-edvest/5952595001/"
+      },
+      {
+        "presto_id": "6201481001",
+        "question": "Where can my child learn about financial literacy?",
+        "answer": "<p>Financial literacy is an important life skill and a growing number of schools in Wisconsin are offering standalone personal finance classes. If your school district does not offer those classes, <a href=\"https://securefutures.org\">Secure Futures</a> in Milwaukee and <a href=\"https://www.assetbuilders.org\">Asset Builders</a> in Madison offer financial and investment coaching and workshops for young people.</p>\n",
+        "media_format": "article",
+        "section": "education",
+        "year_pub": "2021",
+        "needs_updated_y/n": "n",
+        "link": "https://www.jsonline.com/in-depth/news/local/milwaukee/2021/11/11/financial-literacy-how-milwaukee-kids-learning-manage-money-school-running-rebels-personal-finance/6201481001/"
+      }
+    ],
+    "housing": [
+      {
+        "presto_id": "8164057002",
+        "question": "How do I find electrical fire risks in my apartment?",
+        "answer": "<p>Electrical fires pose a deadly and hidden risk. You can protect yourself before signing a lease by counting the outlets in a room and testing them using a cellphone or hair dryer. </p>\n<p>If you find electrical problems after you have signed the lease, don&#39;t try to fix them yourself. The first step is to contact your landlord. It is against the law for a landlord to evict you or raise rent based on any complaints that lead to the city issuing the owner a code violation. </p>\n",
+        "media_format": "article",
+        "section": "housing",
+        "year_pub": "2021",
+        "needs_updated_y/n": "n",
+        "link": "https://www.jsonline.com/story/news/investigations/2021/08/25/tips-ensure-electrical-systems-safe-your-apartment-milwaukee-fire/8164057002/"
+      },
+      {
+        "presto_id": "7936901002",
+        "question": "How do I get rid of old criminal and eviction records?\n",
+        "answer": "<p>Were you arrested, had all charges dismissed but still find yourself having to explain this to employers? Or were you evicted more than two years ago but still struggle to find an apartment? </p>\n<p>These records can follow you around online without you even knowing it, visible to potential employers and landlords. Check out the <a href=\"https://legaltuneup.org\">Legal Tune-up Tool</a>. The tool uses an online process to streamline the removal of eligible criminal and eviction records.</p>\n",
+        "media_format": "article",
+        "section": "housing",
+        "year_pub": "2021",
+        "needs_updated_y/n": "n",
+        "link": "/Remove%20eligible%20criminal%20and%20eviction%20records%20with%20a%20new%20legal%20tool%20(jsonline.com)"
+      },
+      {
+        "presto_id": "6033012001",
+        "question": "How do I stop an eviction?",
+        "answer": "<p>Your first stop should be <a href=\"https://www.evictionfreemke.org\">EvictionFreeMKE.org</a>, a free government-run online tool that can connect you with free legal help, rental assistance and other resources. </p>\n<p>Milwaukee County has a &quot;Right to Counsel&quot; program to provide residents facing eviction the right to a free lawyer and this tool can help you find one of those lawyers.</p>\n",
+        "media_format": "article",
+        "section": "housing",
+        "year_pub": "2021",
+        "needs_updated_y/n": "n",
+        "link": "/EvictionFreeMKE.org%20offers%20free%20legal%20help%20to%20those%20facing%20eviction%20(jsonline.com)"
+      },
+      {
+        "presto_id": "5381966002",
+        "question": "Where can I find help to buy a home in Milwaukee or make repairs?\n",
+        "answer": "<p>More than a dozen agencies in Milwaukee can help you buy a home and offer a range of free or low-cost services, including financial counseling, lending and real estate agent representation. </p>\n<p>Grants and preferred lending options are available to qualified home buyers, too. ACTS Housing, for example, allows qualifying home buyers to borrow up to $50,000 from Acts Lending for purchase and repairs. </p>\n",
+        "media_format": "article",
+        "section": "housing",
+        "year_pub": "2020",
+        "needs_updated_y/n": "n",
+        "link": "https://www.jsonline.com/in-depth/news/solutions/2020/08/07/milwaukee-organizations-help-first-time-homeowners-navigate-process/5381966002/"
+      },
+      {
+        "presto_id": "4453939001",
+        "question": "Where can I go for help if I'm a renter and there's a problem with the property or building?",
+        "answer": "<p>Milwaukee has several local agencies and organizations, including ones that offer free legal help, that address rental problems. Community Advocates, Milwaukee Autonomous Tenants Union and the Milwaukee Justice Center can help you.</p>\n",
+        "media_format": "pdf",
+        "section": "housing",
+        "year_pub": "2021",
+        "needs_updated_y/n": "n",
+        "link": "/WIRE%20FIRE%20CONTACTS%20FLYERS%20MKE%20REVISED%2010-21-2021%20(documentcloud.org)"
+      }
+    ],
+    "lead": [
+      {
+        "presto_id": "7105469002",
+        "question": "Where can I get tested for lead poisoning or get my child tested?\n",
+        "answer": "<p>You should start with your doctor. Lead tests are paid for by most insurance plans. Testing for Medicaid-eligible children is required and paid for by Medicaid. </p>\n<p>To get your child tested through the city of Milwaukee, call the Health Department&#39;s Childhood Lead Poisoning Prevention Program (MHD CLPPP) nursing staff at 414-286-2165. Sixteenth Street Community Health Centers offers lead testing for children at 414-897-5592, as does the Social Development Commission at 414-906-2700.</p>\n",
+        "media_format": "article",
+        "section": "lead",
+        "year_pub": "2021",
+        "needs_updated_y/n": "n ",
+        "link": "/Lead%20in%20Milwaukee:%20What%20residents%20need%20to%20know%20about%20testing,%20exposure%20(jsonline.com)"
+      },
+      {
+        "presto_id": "7105469002",
+        "question": "I'm worried there's lead in my water. How can I find out?",
+        "answer": "<p>If you live in Milwaukee, you can use its directory to see if your home has a lead lateral by clicking <a href=\"https://city.milwaukee.gov/water/WaterQuality/LeadandWater/Lead-Service-Line-Records\">here</a>. The city has a <a href=\"https://city.milwaukee.gov/ImageLibrary/Groups/WaterWorks/Lead-Service-Lines/Testaservicelinetoseeifitismadeoflead.pdf\">home test</a> to help you determine if your pipes contain lead.</p>\n",
+        "media_format": "article ",
+        "section": "lead",
+        "year_pub": "2021",
+        "needs_updated_y/n": "n",
+        "link": "/Lead%20in%20Milwaukee:%20What%20residents%20need%20to%20know%20about%20testing,%20exposure%20(jsonline.com)"
+      },
+      {
+        "presto_id": "7105469002",
+        "question": "What should I do if I think there's lead in my water?",
+        "answer": "<p>If you have lead service lines, or are concerned your water may be contaminated, a filter labeled &quot;NSF/ANSI/CAN 53&quot; is recommended. </p>\n<p>You can call the Milwaukee Health Department at 414-286-2165 to see if you are eligible for a free water filter. If you don&#39;t have a filter, experts recommend you turn on the cold water and let it run for a minimum of two minutes before you use it. Boiling water will not get rid of lead. </p>\n<p>Homeowners who choose to replace their portion of the lead service line can contact the city, and the city will replace its portion. </p>\n",
+        "media_format": "article",
+        "section": "lead",
+        "year_pub": "2021",
+        "needs_updated_y/n": "n",
+        "link": "/Lead%20in%20Milwaukee:%20What%20residents%20need%20to%20know%20about%20testing,%20exposure%20(jsonline.com)"
+      },
+      {
+        "presto_id": "7131256002",
+        "question": "What should I do to prevent my kid from being exposed to lead?",
+        "answer": "<p>Make sure your child does not touch or eat peeling paint. Use a water filter that removes heavy metals and lead. Wash your child&#39;s hands before they eat, especially if they&#39;ve been playing outside in soil. </p>\n<p>Babies and toddlers between the ages of 6 months and 3 years are at the highest risk for lead exposure, given their increasing mobility and tendency to put everything in their mouths. They also are rapidly developing their motor skills and mental capabilities. </p>\n<p>Homes built before 1970 have the highest risk of lead-based paint and lead-contaminated soil; you can search city of Milwaukee records to see when your residence was built.</p>\n",
+        "media_format": "",
+        "section": "lead",
+        "year_pub": "2021",
+        "needs_updated_y/n": "n",
+        "link": "https://www.jsonline.com/story/news/health/2021/04/21/milwaukees-lead-problem-making-kids-sick-what-you-can-do/7131256002/"
+      }
+    ],
+    "mental-health": [
+      {
+        "presto_id": "5258742002",
+        "question": "Where can I find mental health resources for my child?\n",
+        "answer": "<p>Milwaukee County has a 24-hour crisis line at 414-257-7222. When needed, a mobile team can meet adults and adolescents anywhere to talk and connect them to resources. </p>\n<p>You can find resources for mental health and tips for helping children cope through the Milwaukee Coalition for Children&#39;s Mental Health at <a href=\"https://www.mkekids.org\">mkekids.org</a>.</p>\n",
+        "media_format": "article",
+        "section": "mental-health",
+        "year_pub": "2020",
+        "needs_updated_y/n": "y",
+        "link": "https://www.jsonline.com/story/news/solutions/2020/05/27/self-harm-rises-childrens-wisconsin-adds-mental-health-team-er/5258742002/"
+      },
+      {
+        "presto_id": "3149817002",
+        "question": "Where can I find support after the death of a loved one?",
+        "answer": "<p>Organizations throughout the Milwaukee area offer support groups to help young people and their families through the grieving process. </p>\n<p>Many churches and other faith groups offer support through GriefShare. For a listing of GriefShare groups, click <a href=\"https://www.griefshare.org/findagroup\">here</a>. Children’s Hospital has groups for parents who have lost a child and children who have lost a loved one to violence. Other hospitals and organizations offer other specialized groups.</p>\n",
+        "media_format": "article",
+        "section": "mental-health",
+        "year_pub": "2019",
+        "needs_updated_y/n": "y",
+        "link": "https://www.jsonline.com/story/news/special-reports/milwaukee-violence/2019/03/21/how-find-support-during-grieving-process-after-homicide/3149817002/"
+      }
+    ],
+    "public-safety": [
+      {
+        "presto_id": "7238975002",
+        "question": "What do I do if my catalytic converter is stolen?",
+        "answer": "<p>Catalytic converters are located behind the front axle housing next to the oil pan and transmission. Thieves target them to get the precious metals inside and to sell to repair shops looking for parts. </p>\n<p>If yours is cut and stolen, you should report it to your insurance and police. Even if there’s no physical evidence left behind, officers can use the information to spot trends and warn other car owners. </p>\n<p>Experts say the best way to prevent theft is to park in a locked garage, spray paint the converter a bright neon color to make it less desirable and engrave your car’s VIN on the converter.</p>\n",
+        "media_format": "article",
+        "section": "public-safety",
+        "year_pub": "2021",
+        "needs_updated_y/n": "n",
+        "link": "https://www.jsonline.com/story/news/solutions/2021/04/16/theft-catalytic-converters-up-milwaukee-how-deter-thieves/7238975002/"
+      },
+      {
+        "presto_id": "7623636002",
+        "question": "Where can I find help after experiencing domestic abuse or sexual assault?\n",
+        "answer": "<p>If you&#39;ve experienced sexual assault or domestic violence, there are resources in Milwaukee to help. </p>\n<p>The Sojourner Family Peace Center in Milwaukee operates a 24-hour confidential hotline at (414) 933-2722 and offers assistance with e-filing for restraining orders at (414) 278-5079. The center also offers a 24-hour confidential texting line at (414) 877-8100. </p>\n<p>The Milwaukee Women&#39;s Center also offers a hotline at (414) 671-6140. The Asha Project, which serves African American women in Milwaukee, provides a crisis line from 9 a.m. to 4 p.m. at (414) 252-0075. </p>\n<p>Advocate Aurora Health&#39;s Healing and Advocacy Services for sexual assault survivors includes a 24-hour hotline at (414) 219-5555 and a confidential text line (414) 219-1551.</p>\n",
+        "media_format": "article",
+        "section": "public-safety",
+        "year_pub": "2021",
+        "needs_updated_y/n": "n",
+        "link": "https://www.jsonline.com/story/news/2021/06/23/where-find-help-sexual-assault-domestic-violence-milwaukee-resources-crisis-hotline-confidential/7623636002/"
+      },
+      {
+        "presto_id": "4923669001",
+        "question": "How do I get a speed hump to slow down traffic on a street?",
+        "answer": "<p>You start with a petition. You&#39;ll need at least 50% of support from the block&#39;s property owners and/or residents where you want to put the speed hump and you need support from your area&#39;s alderperson. </p>\n<p>Speed humps are not allowed everywhere. They can only be installed on side streets, typically in residential neighborhoods. </p>\n",
+        "media_format": "article",
+        "section": "public-safety",
+        "year_pub": "2021",
+        "needs_updated_y/n": "n",
+        "link": "https://www.jsonline.com/story/news/local/milwaukee/2021/05/19/cut-reckless-driving-how-get-speed-hump-installed-milwaukee-neighborhood/4923669001/"
+      },
+      {
+        "presto_id": "4923669001",
+        "question": "What is the cost of a speed hump?",
+        "answer": "<p>Ninety percent of the cost for a speed hump is paid by the residents in the neighborhood and 10% is paid for by the city. </p>\n<p>The average cost is around $6.50/foot of property, which usually results in a bill of $200-$300 per property owner. That cost can be paid off right away in full, or in low-interest installments over ten years.</p>\n",
+        "media_format": "article",
+        "section": "public-safety",
+        "year_pub": "2021",
+        "needs_updated_y/n": "n",
+        "link": "https://www.jsonline.com/story/news/local/milwaukee/2021/05/19/cut-reckless-driving-how-get-speed-hump-installed-milwaukee-neighborhood/4923669001/"
+      }
+    ],
+    "recycling": [
+      {
+        "presto_id": "4853140001",
+        "question": "Can I recycle electronics, plastic bags or batteries in Milwaukee?",
+        "answer": "<p>You cannot put plastic bags in your recycling bin, but some Roundy’s grocery stores will take them. </p>\n<p>Other items, including electronics and batteries, cannot be put in your curbside recycling bin but can be taken to a city drop-off center. </p>\n<p>The city offers regular recycling pick-up. Find your recycling schedule <a href=\"https://city.milwaukee.gov/sanitation/GarbageRecyclingSchedules\">here</a>.</p>\n",
+        "media_format": "article",
+        "section": "recycling",
+        "year_pub": "2021",
+        "needs_updated_y/n": "n",
+        "link": "/Milwaukee%20recycling%20guide:%20How%20to%20recycle%20electronics,%20batteries,%20bags%20(jsonline.com)"
+      }
+    ],
+    "voting": [
+      {
+        "presto_id": "5435624002",
+        "question": "How do I register to vote?",
+        "answer": "<p>Wisconsinites can register to vote at <a href=\"myvote.wi.gov\">myvote.wi.gov</a>, by mail, in a clerk&#39;s office or at the polls. </p>\n<p>They will need proof of residence, such as a driver&#39;s license, utility bill, pay stub or other document. They will also have to provide their Wisconsin driver&#39;s license number, if they have one, or the last four digits of their Social Security number if they don&#39;t have a license. </p>\n<p>Those who miss the deadlines for registering by mail or at a clerk&#39;s office can register at the polls on Election Day.</p>\n",
+        "media_format": "article",
+        "section": "voting",
+        "year_pub": "2020",
+        "needs_updated_y/n": "y",
+        "link": "https://www.jsonline.com/story/news/politics/2020/07/17/how-register-vote-wisconsin-and-get-absentee-ballot-2020-election-november-august-by-mail-voter-id/5435624002/"
+      },
+      {
+        "presto_id": "6236780001",
+        "question": "What positions are elected in Wisconsin?",
+        "answer": "<p>Just like the federal government, Wisconsin has three branches — legislative, executive and judicial. All of them, ultimately, are answerable to you because in Wisconsin, unlike some states, we also elect Supreme Court justices and other judges.</p>\n",
+        "media_format": "article",
+        "section": "voting",
+        "year_pub": "2021",
+        "needs_updated_y/n": "n",
+        "link": "https://www.jsonline.com/story/news/solutions/2021/11/02/how-contact-governor-tony-evers-other-representatives-wisconsin-legislature/6236780001/"
+      },
+      {
+        "presto_id": "3666267001",
+        "question": "How do I track my absentee ballot in Wisconsin?\n",
+        "answer": "<p>The Wisconsin Elections Commission has created the “Track my Ballot” tool on its MyVote site, <a href=\"https://myvote.wi.gov/en-us/Track-My-Ballot\">accessible here</a>. Once a voter enters their name and date of birth, their voter status and current address pop up. </p>\n<p>The tracker shows six rectangles, which display the steps in the absentee process. Blue boxes signify that a step has been completed — so a row of completely blue boxes means the absentee ballot was received successfully. </p>\n",
+        "media_format": "article",
+        "section": "voting",
+        "year_pub": "2020",
+        "needs_updated_y/n": "n",
+        "link": "https://www.jsonline.com/story/news/politics/2020/10/15/how-track-your-ballot-wisconsin-after-voting-absentee-early/3666267001/"
+      }
+    ],
+    "youth": [
+      {
+        "presto_id": "6048451002",
+        "question": "Where can I find a mentor for my child or volunteer as a mentor?",
+        "answer": "<p>Mentor Greater Milwaukee runs a database connecting volunteers with mentoring programs. You can find it <a href=\"https://www.milwaukeementor.com\">here</a>. There also are other mentoring programs, some specifically for youth of color, in the Milwaukee area. Most are free or low cost. Mentoring students is one of many ways to get kids and teens interested in school and reading.</p>\n",
+        "media_format": "article",
+        "section": "youth",
+        "year_pub": "2020",
+        "needs_updated_y/n": "n",
+        "link": "https://www.jsonline.com/in-depth/news/special-reports/2020/11/19/local-programs-designed-tackle-reading-and-mentoring/6048451002/"
+      }
+    ]
+  },
+  "off_platform": [
+    {
+      "description": "What local how-to guide should we make next? Send us your questions and input.",
+      "link": "https://forms.office.com/Pages/ResponsePage.aspx?id=jUySvBY-iE6_Jtf8-xTy1R5GdJqmNadIuDeZwKKS0SlUOVdQWDBZSjFaVjhYV01SSjBDVDJYVDlVSS4u",
+      "link_text": "Submit your questions",
+      "id": "submit"
+    },
+    {
+      "description": "Our subscribers make this reporting possible. Thanks for supporting our work.",
+      "link": "https://cm.jsonline.com/specialoffer/",
+      "link_text": "Subscribe here",
+      "id": "subscribe"
+    },
+    {
+      "description": "Sign up for one of our newsletters. From news to sports, we'll send the latest straight to your inbox.",
+      "link": "https://profile.jsonline.com/newsletters/manage/",
+      "link_text": "Newsletters",
+      "id": "newsletter"
+    }
+  ]
+}
